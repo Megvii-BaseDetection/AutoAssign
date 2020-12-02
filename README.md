@@ -51,5 +51,5 @@ pods_test --num-gpus 8 MODEL.WEIGHTS /path/to/your/model.pth
 
 | Model | Multi-scale training | Multi-scale testing | Testing time / im | AP (minival) | Link |
 |:--- |:--------------------:|:--------------------:|:-----------------:|:-------:|:---:|
-| [AutoAssign_Res50_FPN_1x](https://github.com/poodarchu/AutoAssign/auto_assign.res50.fpn.coco.800size.1x/config.py) | No | No | 53ms | 40.5 | [download](https://drive.google.com/file/d/11mV53SJUIpCdWj-Wbfi_fdmDz96ekb-Z/view?usp=sharing)
+| [AutoAssign_Res50_FPN_1x](https://github.com/poodarchu/AutoAssign/blob/master/auto_assign.res50.fpn.coco.800size.1x/config.py) | No | No | 53ms | 40.5 | [download](https://drive.google.com/file/d/11mV53SJUIpCdWj-Wbfi_fdmDz96ekb-Z/view?usp=sharing)
 
