@@ -1,6 +1,6 @@
 # AutoAssign: Differentiable Label Assignment for Dense Object Detection 
 
-# ![Screen Shot 2020-12-02 at 3.31.55 PM](/Users/poodarchu/Library/Application Support/typora-user-images/Screen Shot 2020-12-02 at 3.31.55 PM.png)
+# ![pipeline](./pipeline.png)
 
 This is a PyTorch implementation of the [AutoAssign paper](https://arxiv.org/abs/2007.03496):
 
