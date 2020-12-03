@@ -17,11 +17,11 @@ This is a PyTorch implementation of the [AutoAssign paper](https://arxiv.org/abs
 
 ## Get Started
 
-1. install cvpods following the instructions
+1. install [cvpods](https://github.com/Megvii-BaseDetection/cvpods) following the instructions
 
 ```shell
 # Install cvpods
-git clone --recursive https://github.com/poodarchu/cvpods
+git clone https://github.com/Megvii-BaseDetection/cvpods
 cd cvpods 
 ## build cvpods (requires GPU)
 pip install -r requirements.txt
